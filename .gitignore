@@ -33,3 +33,6 @@ ios/Runner/GoogleService-Info.plist
 .flutter-plugins
 .flutter-plugins-dependencies
 
+
+# Firebase config (macOS)
+macos/Runner/GoogleService-Info.plist
